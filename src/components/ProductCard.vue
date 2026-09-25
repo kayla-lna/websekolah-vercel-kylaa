@@ -77,7 +77,7 @@ button {
  padding: 6px 12px;
  border: none;
  border-radius: 6px;
- background: bisque;
+ background: lightpink;
  color: white;
  cursor: pointer;
 }

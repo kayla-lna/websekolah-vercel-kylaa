@@ -63,6 +63,16 @@ const daftarTim = [
   padding: 3rem 1rem;
 }
 
+.banner h1 {
+  margin: 0 0 0.5rem;
+  font-size: 2rem;
+}
+
+.banner p {
+  margin: 0;
+  font-size: 1.05rem;
+  opacity: 0.85;
+}
 .cerita-kami {
   display: flex;
   align-items: center;
